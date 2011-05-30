@@ -1,11 +1,12 @@
 Name: 		plasma-desktoptheme-rosa
 Version:	1.0.0
-Release:	1
+Release:	2
 Summary: 	Plasma desktoptheme from ROSA Laboratory
 Group: 		Graphical desktop/KDE
 License:        GPL
 URL:            http://rosalab.ru/
 Requires: 	kdebase4-workspace
+Requires:       kde4-macros
 BuildArch:	noarch
 Source:		%{name}-%{version}.tar.bz2
 
