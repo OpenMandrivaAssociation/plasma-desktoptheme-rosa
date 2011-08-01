@@ -1,5 +1,5 @@
 Name: 		plasma-desktoptheme-rosa
-Version:	1.0.0
+Version:	1.1.0
 Release:	4
 Summary: 	Plasma desktoptheme from ROSA Laboratory
 Group: 		Graphical desktop/KDE
@@ -12,7 +12,7 @@ Source:		%{name}-%{version}.tar.bz2
 
 %description
 Original theme for the plasma-desktop from ROSA Laboratory. This theme is used by default 
-in Mandriva and ROSA Desktop distibutives since 2011.
+in Mandriva/ROSA Desktop since 2011.
 
 %files
 %_kde_appsdir/desktoptheme/ROSA
