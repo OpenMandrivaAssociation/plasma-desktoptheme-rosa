@@ -1,5 +1,5 @@
 Name: 		plasma-desktoptheme-rosa
-Version:	1.1.0
+Version:	1.2.0
 Release:	4
 Summary: 	Plasma desktoptheme from ROSA Laboratory
 Group: 		Graphical desktop/KDE
