@@ -1,6 +1,6 @@
 Name: 		plasma-desktoptheme-rosa
 Version:	1.2.5
-Release:	5
+Release:	6
 Summary: 	Plasma Desktop theme from ROSA
 Group: 		Graphical desktop/KDE
 License:        GPLv2
