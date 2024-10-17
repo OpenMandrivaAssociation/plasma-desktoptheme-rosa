@@ -4,7 +4,7 @@ Release:	11
 Summary: 	Plasma Desktop theme from ROSA
 Group: 		Graphical desktop/KDE
 License:        GPLv2
-URL:            http://rosalinux.com
+URL:            https://rosalinux.com
 BuildRequires:  kde4-macros
 Requires:       kdebase4-workspace
 BuildArch:	noarch
